@@ -1,0 +1,9 @@
+
+/*
+input[type=radio] {
+    width: 10%;
+}
+*/
+input[type=text]{
+    margin-bottom: 5px;
+}
